@@ -21,7 +21,7 @@ package io.github.bonigarcia.wdm;
  * @since 1.0.0
  */
 public enum Architecture {
-	DEFAULT, x32, x64;
+	DEFAULT, x32, x64,MAC;
 
 	@Override
 	public String toString() {
